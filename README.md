@@ -1,6 +1,6 @@
 # odin-recipes
 
-In this website you'll find a variaty of recipes that hopefully you'll enjoy (They are my favorite).
+In this website you'll find a variaty of colombian recipes that hopefully you'll enjoy (They are my favorite).
 
 ## Why?
 
