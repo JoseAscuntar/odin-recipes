@@ -12,3 +12,6 @@ It is also part of the "Foundations" of "The Odin Project" and is the first HTML
 
 - **Choclo Arepa image:**
 Photo by "Superhomi912" via Wikimedia Commons "with the name of "Kolumbianische_Arepas_mit_Käsefüllung" and the CREATIVE COMMONS BY-SA 4.0 license (https://creativecommons.org/licenses/by-sa/4.0/deed.en). Link to the image: "https://commons.wikimedia.org/wiki/File:Kolumbianische_Arepas_mit_K%C3%A4sef%C3%BCllung.jpg". It is used in the beginning of the Choclo Arepa recipe webpage 
+
+- **Caldo de Costilla image:**
+Photo by "Xemenendura" via Wikimedia Commons with the name of "Kolumbianische_Arepas_mit_Käsefüllung" and the CREATIVE COMMONS BY-SA 4.0 license (https://creativecommons.org/licenses/by-sa/4.0/deed.en). Link to the image: "https://commons.wikimedia.org/wiki/File:Caldo_de_costilla_Paisa.jpg". It is used in the beginning of the Caldo de Costilla recipe webpage. 
