@@ -15,3 +15,9 @@ Photo by "Superhomi912" via Wikimedia Commons "with the name of "Kolumbianische_
 
 - **Caldo de Costilla image:**
 Photo by "Xemenendura" via Wikimedia Commons with the name of "Kolumbianische_Arepas_mit_Käsefüllung" and the CREATIVE COMMONS BY-SA 4.0 license (https://creativecommons.org/licenses/by-sa/4.0/deed.en). Link to the image: "https://commons.wikimedia.org/wiki/File:Caldo_de_costilla_Paisa.jpg". It is used in the beginning of the Caldo de Costilla recipe webpage. 
+
+- **Lechona image:**
+Photo by "Tamorlan" via Wikimedia Commons with the name of "Kolumbianische_Arepas_mit_Käsefüllung" and the CREATIVE COMMONS BY-SA e.0 license (https://creativecommons.org/licenses/by-sa/3.0). Link to the image: "https://commons.wikimedia.org/wiki/File:Lechona.JPG". It is used in the beginning of the Lechona recipe webpage. 
+
+- **Lechona recipe:**
+Inspired and adapted from [Amigo Foods](https://blog.amigofoods.com/index.php/colombian-food/what-is-lechona-colombiana/)
