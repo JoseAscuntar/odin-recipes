@@ -29,7 +29,7 @@ img {
 }
 
 a {
-    font-size: 24px;
+    font-size: 30px;
     display: flex;
     flex-direction: column;
     justify-content: space-between; 
