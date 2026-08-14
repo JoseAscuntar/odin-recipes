@@ -6,3 +6,10 @@
 body {
     margin: auto 30px;
 }
+
+h1 {
+    font-size: 80px;
+    width: 100wv;
+    display: flex;
+    justify-content: center; 
+}
