@@ -4,7 +4,7 @@
 }
 
 body {
-    margin: auto 30px;
+    margin: auto 25%;
 }
 
 h1 {
@@ -17,10 +17,11 @@ h1 {
 #section1{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 #description{
-    width: 20vw;
+    width: 400px;
     text-align: justify;
     font-size: larger;
     padding: 0 20px;
