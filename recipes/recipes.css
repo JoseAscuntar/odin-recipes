@@ -12,6 +12,8 @@ h1 {
     width: 100wv;
     display: flex;
     justify-content: center; 
+    font-weight: 400;
+    text-align: center;
 }
 
 #section1{
