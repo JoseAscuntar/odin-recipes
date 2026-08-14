@@ -16,5 +16,15 @@ h1 {
 
 p {
     font-size: 32px;
-    font-family: Georgia, "Times New Roman", serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around; 
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    font-size: 24px;
 }
