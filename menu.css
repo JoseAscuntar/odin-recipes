@@ -9,7 +9,7 @@ body {
 
 h1 {
     font-size: 80px;
-    width: 100wv;
+    font-weight: 500;
     display: flex;
     justify-content: center; 
 }
