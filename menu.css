@@ -26,14 +26,6 @@ ul {
     flex-wrap: wrap;
 }
 
-li {
-    font-size: 24px;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between; 
-    align-items: center;
-    height: 450px;
-}
 
 img {
     width: 500px;
@@ -41,5 +33,11 @@ img {
 }
 
 a {
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+    align-items: center;
+    height: 450px;
     text-decoration: none;
 }
