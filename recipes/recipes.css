@@ -13,3 +13,15 @@ h1 {
     display: flex;
     justify-content: center; 
 }
+
+#section1{
+    display: flex;
+    justify-content: center;
+}
+
+#description{
+    width: 20vw;
+    text-align: justify;
+    font-size: larger;
+    padding: 0 20px;
+}
